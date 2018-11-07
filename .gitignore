@@ -1,2 +1,8 @@
 #mac OS:
 .DS_Store
+
+#webpack file:
+package-lock.json
+webpackPPT/dist
+webpackPPT/node_modules
+package.json
